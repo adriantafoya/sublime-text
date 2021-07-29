@@ -6,12 +6,11 @@
 	// Configuaracion personalizada
 	"theme": "Default Dark.sublime-theme",
 	"color_scheme": "Packages/ayu/ayu-dark.sublime-color-scheme",
-	"font_face": "DejaVuSansMono Nerd Font Book", // Si no, Consolas
-	"font_size": 12,
+	"font_face": "DejaVu Mono Book", // Si no, Consolas
+	"font_size": 11,
 	"tab_size": 3,
 	"highlight_line": true,
 	"caret_style": "smooth",
 	"word_wrap": true,
-	"bold_folder_labels": true,
-	//Paquetes: A File Icon (Se instala al instalar ayu), ayu, Color Highlight, Emmet, AutoFileName, zzz A File Icon zzz (se instala junto con A File Icon)
+	//Paquetes: A File Icon (Se instala al instalar ayu), ayu, Color Highlight, zzz A File Icon zzz (se instala junto con A File Icon)
 }
