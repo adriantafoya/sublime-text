@@ -4,10 +4,10 @@
 		"Vintage",
 	],
 	// Configuaracion personalizada
-	"theme": "Default Dark.sublime-theme",
+	"theme": "Adaptive.sublime-theme",
 	"color_scheme": "Packages/ayu/ayu-dark.sublime-color-scheme",
-	"font_face": "DejaVu Mono Book", // Si no, Consolas
-	"font_size": 11,
+	"font_face": "Source Code Pro Regular", // Si no, Consolas
+	"font_size": 10,
 	"tab_size": 3,
 	"highlight_line": true,
 	"caret_style": "smooth",
