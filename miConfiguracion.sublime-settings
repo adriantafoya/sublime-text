@@ -6,11 +6,12 @@
 	// Configuaracion personalizada
 	"theme": "Adaptive.sublime-theme",
 	"color_scheme": "Packages/ayu/ayu-dark.sublime-color-scheme",
-	"font_face": "Source Code Pro Regular", // Si no, Consolas
+	"font_face": "Jetbrains Mono", // Si no, Consolas
 	"font_size": 10,
 	"tab_size": 3,
 	"highlight_line": true,
 	"caret_style": "smooth",
 	"word_wrap": true,
-	//Paquetes: A File Icon (Se instala al instalar ayu), ayu, Color Highlight, zzz A File Icon zzz (se instala junto con A File Icon)
+
+	//Paquetes: Ayu, ColorHighlight
 }
