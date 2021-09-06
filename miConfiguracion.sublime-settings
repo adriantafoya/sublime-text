@@ -3,15 +3,27 @@
 	[
 		"Vintage",
 	],
-	// Configuaracion personalizada
-	"theme": "Adaptive.sublime-theme",
-	"color_scheme": "Packages/ayu/ayu-dark.sublime-color-scheme",
-	"font_face": "Jetbrains Mono", // Si no, Consolas
-	"font_size": 10,
+	// Configuaracion sublime text
+	"theme": "Gravity One.sublime-theme",
+	"color_scheme": "Packages/Theme - Gravity/One Dark Gravity.sublime-color-scheme",
+	"font_face": "Jetbrains Mono",
+	"font_size": 11,
 	"tab_size": 3,
 	"highlight_line": true,
 	"caret_style": "smooth",
 	"word_wrap": true,
 
-	//Paquetes: Ayu, ColorHighlight
+	// Configuracion tema
+	"gravity_highlight_color_blue": true,
+	"gravity_tab_height_short": true,
+	"gravity_title_bar": true,
+	"gravity_tab_font_small": true,
+
+	/*
+	Paquetes a instalar:
+		-> Tema: Theme - Gravity
+		-> Icons: A File Icon
+		-> Autocompletado: Emmet
+		-> Resaltar colores css: Color highlight
+	*/
 }
