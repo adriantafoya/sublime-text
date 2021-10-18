@@ -8,15 +8,16 @@
 	/*
 	Paquetes a instalar:
 		-> Tema: Theme - Gravity
+		-> Color scheme - One Dark Material
 		-> Icons: A File Icon
 		-> Resaltar colores css: Color highlight
 	*/
 
 
 	// Configuaracion sublime text
-	"theme": "Gravity One.sublime-theme",
-	"color_scheme": "Packages/Theme - Gravity/One Dark Gravity.sublime-color-scheme",
-	"font_face": "JetBrains Mono",
+	"theme": "Adaptive.sublime-theme",
+	"color_scheme": "Packages/One Dark Material - Theme/schemes/OneDark.tmTheme",
+	"font_face": "Consolas",
 	"font_size": 13,
 	"tab_size": 3,
 	"highlight_line": true,
@@ -29,4 +30,3 @@
 	"gravity_title_bar": true,
 	"gravity_tab_font_small": true,
 }
-
