@@ -1,32 +1,23 @@
 {
 	"ignored_packages":
 	[
-		"Vintage",
+		// "Vintage",
+/*"Dart",*/
+/*"FlutterEnhancements",*/
+/*"A File Icon",*/
 	],
+	"theme": "ayu-dark.sublime-theme",
+	"color_scheme": "ayu-dark.sublime-color-scheme",
 
-
-	/*
-	Paquetes a instalar:
-		-> Tema: Theme - Gravity
-		-> Color scheme - One Dark Material
-		-> Icons: A File Icon
-		-> Resaltar colores css: Color highlight
-	*/
-
-
-	// Configuaracion sublime text
-	"theme": "Adaptive.sublime-theme",
-	"color_scheme": "Packages/One Dark Material - Theme/schemes/OneDark.tmTheme",
-	"font_face": "Consolas",
-	"font_size": 13,
-	"tab_size": 3,
-	"highlight_line": true,
-	"caret_style": "smooth",
+	// "font_face": "CodeNewRoman Nerd Font Book",
+	"font_face": "mononoki nerd font",
+	"font_size": 12,
+	"fold_buttons": true,
+	"fade_fold_buttons": true,
+	"tab_size": 5,
 	"word_wrap": true,
-
-	// Configuracion tema
-	"gravity_highlight_color_blue": true,
-	"gravity_tab_height_short": true,
-	"gravity_title_bar": true,
-	"gravity_tab_font_small": true,
+	"draw_minimap_border": true,
+	"always_show_minimap_viewport": true,
+	"highlight_line": true,
+	"caret_style": "blink",
 }
