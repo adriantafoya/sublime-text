@@ -2,22 +2,14 @@
 	"ignored_packages":
 	[
 		// "Vintage",
-/*"Dart",*/
-/*"FlutterEnhancements",*/
-/*"A File Icon",*/
 	],
-	"theme": "ayu-dark.sublime-theme",
-	"color_scheme": "ayu-dark.sublime-color-scheme",
-
-	// "font_face": "CodeNewRoman Nerd Font Book",
-	"font_face": "mononoki nerd font",
+	"theme": "ayu-mirage.sublime-theme",
+	"color_scheme": "Moonlight.sublime-color-scheme",
+	"font_face": "Consolas",
 	"font_size": 12,
-	"fold_buttons": true,
-	"fade_fold_buttons": true,
-	"tab_size": 5,
-	"word_wrap": true,
-	"draw_minimap_border": true,
-	"always_show_minimap_viewport": true,
-	"highlight_line": true,
+	"tab_size": 3,
+	"indent_to_bracket": true,
 	"caret_style": "blink",
+	"adaptive_dividers": true,
+	// "auto_complete": true,
 }
